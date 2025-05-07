@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Bhanu 👋<br>I'm a Computer Information Systems graduate passionate about technology, problem-solving, and building real-world solutions.<br>I have experience in front-end development (HTML, CSS, JavaScript, React, Astro, Next.js) and backend development (FastAPI).<br>I'm currently expanding my skills in cloud technologies (Azure, AWS) and DevOps tools (Docker, Ansible), and preparing for the CompTIA A+ certification.<br><br>🌟 Projects I’m proud of:<br><br>An online image editor built with JavaScript<br><br>An AI-powered resume tracker using FastAPI and React<br><br>🔭 I’m interested in NOC Analyst roles, DevOps, and cloud technologies.<br>⚡ Fun fact: I love creating tools that make life easier for others!<br><br>Let's connect and grow together 🚀
 
-
+bhanukaushal.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanu-kaushal-6a17aa232) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushalbhanu3@gmail.com) 
 
